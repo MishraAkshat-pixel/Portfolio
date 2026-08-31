@@ -99,7 +99,7 @@ window.portfolioConfig = {
 
   projects: [
     {
-      title: 'ECE Practical Project',
+      title: 'Smart Health Monitoring System',
       badge: 'ACADEMIC PROJECT',
       categoryKey: 'engineering',
       categoryLabel: 'Engineering',
