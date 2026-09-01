@@ -105,32 +105,32 @@ window.portfolioConfig = {
       categoryLabel: 'Engineering',
       icon: 'cpu',
       highlight: true,
-      problem: 'A practical electronics and communication engineering project requiring a working technical solution.',
-      technology: 'Electronics / Embedded concepts',
-      myRole: 'Designed, implemented and documented the project work.',
-      result: 'Completed the academic project while strengthening practical engineering and troubleshooting skills.',
-      learning: 'Learned how hardware-oriented requirements translate into structured implementation and testing.',
-      technologies: ['ECE', 'Engineering', 'Documentation'],
+      problem: 'A practical embedded healthcare project designed to monitor multiple physiological and environmental parameters in real time.',
+      technology: 'Arduino UNO, MAX30100, LM35, DHT11, MQ-135, 16×2 LCD, buzzer',
+      myRole: 'Contributed to sensor integration, system implementation, testing and project documentation.',
+      result: 'Built a multi-parameter monitoring system capable of tracking heart rate, SpO2, temperature, humidity and air quality with threshold-based alerts.',
+      learning: 'Strengthened embedded systems, sensor interfacing, hardware-software integration and troubleshooting skills.',
+      technologies: ['Arduino', 'Embedded C/C++', 'IoT', 'Sensors'],
       status: 'Completed',
       githubUrl: '',
       demoUrl: '#'
     },
     {
-      title: 'Portfolio Website',
-      badge: 'CURRENT BUILD',
-      categoryKey: 'web',
-      categoryLabel: 'Web Development',
-      icon: 'globe',
+      title: 'DSA Algorithm Visualizer',
+      badge: 'NEW BUILD',
+      categoryKey: 'software',
+      categoryLabel: 'Software / DSA',
+      icon: 'bar-chart-3',
       highlight: true,
-      problem: 'Create a personal portfolio that presents technical growth, projects and achievements professionally.',
-      technology: 'HTML, CSS, JavaScript, Tailwind CSS, Three.js',
-      myRole: 'Designed and developed the portfolio experience.',
-      result: 'Built an interactive gold-and-obsidian portfolio with responsive sections, animations and a 3D AI core.',
-      learning: 'Improved frontend structure, UI composition, JavaScript interactions and visual design.',
-      technologies: ['HTML', 'CSS', 'JavaScript', 'Three.js'],
-      status: 'In Progress',
-      githubUrl: '',
-      demoUrl: '#'
+      problem: 'Make sorting algorithms easier to understand by turning their internal comparisons, swaps and moves into an interactive visual experience.',
+      technology: 'HTML, CSS, JavaScript, Data Structures & Algorithms',
+      myRole: 'Designed and developed the interactive visualization, algorithm logic, controls and user-input workflow.',
+      result: 'Built a browser-based visualizer supporting custom arrays, random arrays, Bubble Sort, Selection Sort, Insertion Sort and Merge Sort with live comparisons, moves, steps and algorithm explanations.',
+      learning: 'Improved algorithm implementation, JavaScript state management, DOM manipulation, animation control and the ability to explain DSA concepts visually.',
+      technologies: ['HTML', 'CSS', 'JavaScript', 'DSA'],
+      status: 'Completed',
+      githubUrl: 'https://github.com/MishraAkshat-pixel/dsa-algorithm-visualizer',
+      demoUrl: 'https://mishraakshat-pixel.github.io/dsa-algorithm-visualizer/'
     },
     {
       title: 'Community Development Project (CDP)',
@@ -143,13 +143,13 @@ window.portfolioConfig = {
       technology: 'Environmental Awareness • Online Quiz • Community Outreach',
       myRole: 'Conducted an environmental awareness session, encouraged participation and helped community members register for the quiz.',
       result: 'Completed 250+ registrations while contributing to a community-focused environmental awareness initiative.',
-      learning: 'Strengthened communication, leadership, teamwork and the ability to create engagement beyond purely technical work.',
+      learning: 'Strengthened communication, leadership, teamwork, public speaking and community engagement beyond purely technical work.',
       technologies: ['CDP', 'Environmental Awareness', 'Communication', 'Leadership'],
       status: 'Completed',
       githubUrl: '',
       demoUrl: '#'
     }
-  ],
+  ]
 
   education: [
     {
